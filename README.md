@@ -11,4 +11,4 @@ npm install
 npm run dev
 ```
 
-Open a browser and visit [http://127.0.0.1:8080/](http://127.0.0.1:8080/) and you should see a spinning green wireframe cube against a black background. You will also be able to interact with the cube and zoom in and out using your mouse. 
+Open a browser and visit [http://localhost:8080/](http://localhost:8080/) and you should see a spinning green wireframe cube against a black background. You will also be able to interact with the cube and zoom in and out using your mouse. 
